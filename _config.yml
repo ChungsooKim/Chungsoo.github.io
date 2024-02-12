@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chungsoo Kim's Research Page"
 title_separator          : "-"
 name                     : &name "Chungsoo Kim"
-description              : &description "Pharm.D., Ph.D. in Biomedical Informatics / Postdoctoral Associate at Yale University School of Medicine"
+description              : &description "PharmD, PhD"
 url                      : https://ChungsooKim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChungsooKim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chungsoo Kim"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate at Yale University School of Medicine"
+  bio              : "PharmD & PhD in Biomedical Informatics, Currently a Postdoctoral Associate at Yale University School of Medicine"
   location         : "New Haven, CT"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/chungsoo.kim.1/bibliography/public/"
